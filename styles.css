@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', sans-serif;
   background: #121212;
   color: #e0e0e0;
   line-height: 1.6;
@@ -31,7 +31,7 @@ body {
 
 .header h1 {
   font-size: 2.5rem;
-  color: #82cfff; /* bright blue */
+  color: #82cfff;
 }
 
 .header p {
@@ -48,7 +48,7 @@ body {
 }
 
 .icons a:hover {
-  color: #ff6f61; /* coral */
+  color: #ff6f61
 }
 
 /* Sections */
